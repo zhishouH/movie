@@ -8,12 +8,13 @@
 
 ![github](readme.assets/github.png)
 
-[movie]: https://github.com/zhishouH/movie
+[movie](https://github.com/zhishouH/movie)
 
 - npm install
 - npm run server
 
-[movie-database]: https://github.com/zhishouH/movie-database
+[movie-database](https://github.com/zhishouH/movie-database) 
+
 
 -  npm install -g json-server
 - json-server --watch db.json
